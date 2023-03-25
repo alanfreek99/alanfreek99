@@ -190,7 +190,7 @@ nav ul li a:hover::after{
 	display: inline-block;
 }
 .services-list div:hover{
-	background-color: #e9e60b;
+	background-color: #000000;
 	transform: translateY(-10px);
 }
 /* ----------Porfolio------------- */
@@ -221,7 +221,7 @@ nav ul li a:hover::after{
 .layer{
 	width: 100%;
 	height: 0;
-	background: linear-gradient(rgba(0,0,0,0.6),#e9e60b);
+	background: linear-gradient(rgba(0,0,0,0.6),#ffffff);
 	border-radius: 10px;
 	position: absolute;
 	left: 0;
@@ -243,7 +243,7 @@ nav ul li a:hover::after{
 }
 .layer a{
 	margin-top: 20px;
-	color: #e9e60b;
+	color: #000000;
 	text-decoration: none;
 	font-size: 18px;
 	line-height: 60px;
